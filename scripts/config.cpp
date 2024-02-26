@@ -1,3 +1,12 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: config.bin
+//Produced from mikero's Dos Tools Dll version 9.44
+//https://mikero.bytex.digital/Downloads
+//'now' is Tue Feb 20 16:53:06 2024 : 'file' last modified on Mon Feb 12 02:29:16 2024
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
 class CfgPatches
 {
 	class DZ_Scripts
